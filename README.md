@@ -1,5 +1,7 @@
 # Code Review
 
+**Login-Registration**: [Home](http://localhost:63342/demo/templates/login-register.html?_ijt=34e8hrlmcgmmrj80oceclg05ot&_ij_reload=RELOAD_ON_SAVE#)
+
 ### User - Customer
 
 **Table:** show all users: [user-list](http://localhost:8080/users/all)
