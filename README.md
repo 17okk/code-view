@@ -14,7 +14,9 @@
 ### Discussion
 > post messages && comments
 
-**Post:** create a new article: [message-create]()
+**List:** show all the articles: [message-list](http://localhost:8080/messages/all)
+
+**Post:** create a new article: [message-create](http://localhost:8080/messages/createForm)
 
 **Edit:** update the description
 
